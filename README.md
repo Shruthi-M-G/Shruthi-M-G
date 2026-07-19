@@ -35,8 +35,8 @@ Git • GitHub • VS Code • MySQL • Figma
 
 ##  Featured Projects
 
-- 🔹 ATM Management System
-- 🔹 Academic Resource Hub
+-  ATM Management System
+-  Academic Resource Hub
   
 
 ---
