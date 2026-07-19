@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shruthi M G 👋</h1>
+<h1 align="center">Hi, I'm Shruthi M G </h1>
 
 <p align="center">
 Final Year ECE Student • Aspiring Software Engineer
@@ -12,16 +12,16 @@ Final Year ECE Student • Aspiring Software Engineer
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Final Year B.E. Electronics & Communication Engineering
-- 💻 Interested in Java Backend Development
-- 📚 Currently learning Data Structures & Algorithms
-- 🌱 Building projects to improve problem-solving and development skills
+-  Final Year B.E. Electronics & Communication Engineering
+-  Interested in Java Backend Development
+-  Currently learning Data Structures & Algorithms
+-  Building projects to improve problem-solving and development skills
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -33,7 +33,7 @@ Git • GitHub • VS Code • MySQL • Figma
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - 🔹 ATM Management System
 - 🔹 Academic Resource Hub
