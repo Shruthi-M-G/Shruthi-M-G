@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shruthi M G 👋</h1>
 
-<!--
-**Shruthi-M-G/Shruthi-M-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Final Year ECE Student • Aspiring Software Engineer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/shruthimece/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/shruthi-mg/">LeetCode</a> •
+  <a href="https://www.codechef.com/users/shruthimg">CodeChef</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Final Year B.E. Electronics & Communication Engineering
+- 💻 Interested in Java Backend Development
+- 📚 Currently learning Data Structures & Algorithms
+- 🌱 Building projects to improve problem-solving and development skills
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Java • Python • SQL • HTML • CSS • JavaScript
+
+**Tools**
+
+Git • GitHub • VS Code • MySQL • Figma
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 ATM Management System
+- 🔹 Academic Resource Hub
+  
+
+---
+
+## 📊 GitHub Stats
+
+![Shruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shruthi-M-G&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthi-M-G&layout=compact&hide_border=true)
+
+---
+
+⭐ Thanks for visiting my profile!
