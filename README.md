@@ -25,7 +25,7 @@ Final Year ECE Student • Aspiring Software Engineer
 
 **Languages**
 
-Java • Python • SQL • HTML • CSS • JavaScript
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,git,github,vscode"/> </p>
 
 **Tools**
 
