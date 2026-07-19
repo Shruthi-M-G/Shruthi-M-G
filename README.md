@@ -43,10 +43,8 @@ Git • GitHub • VS Code • MySQL • Figma
 
 ## 📊 GitHub Stats
 
-![Shruthi's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Shruthi-M-G&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Shruthi-M-G&show_icons=true&theme=github_dark&hide_border=true))
-
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthi-M-G&layout=compact&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthi-M-G&layout=compact&theme=github_dark&hide_border=true))
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shruthi-M-G&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shruthi-M-G&layout=compact&theme=github_dark&hide_border=true)
 ---
 
 ⭐ Thanks for visiting my profile!
