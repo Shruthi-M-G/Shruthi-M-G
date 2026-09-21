@@ -46,13 +46,7 @@ Git • GitHub • VS Code • Eclipse • MySQL
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shruthi-M-G&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthi-M-G&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shruthi-M-G&theme=github_dark&hide_border=true" alt="GitHub Streak" />
