@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Shruthi M G </h1>
+<h1 align="center">Hi, I'm Shruthi M G 👋</h1>
 
 <p align="center">
-Final Year ECE Student • Aspiring Software Engineer
+Final-Year ECE Student • Aspiring Software Engineer
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@ Final Year ECE Student • Aspiring Software Engineer
 
 ## About Me
 
--  Final Year B.E. Electronics & Communication Engineering
--  Interested in Java Backend Development
--  Currently learning Data Structures & Algorithms
--  Building projects to improve problem-solving and development skills
+* 🎓 Final-year B.E. Electronics & Communication Engineering student
+* 💻 Interested in Java Backend Development
+* 📚 Currently learning Data Structures & Algorithms
+* 🔨 Building projects to improve problem-solving and development skills
 
 ---
 
@@ -25,24 +25,29 @@ Final Year ECE Student • Aspiring Software Engineer
 
 **Languages**
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,git,github,vscode"/> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js"/>
+</p>
 
 **Tools**
 
-Git • GitHub • VS Code • MySQL • Figma
+Git • GitHub • VS Code • Eclipse • MySQL
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
--  ATM Management System
--  Academic Resource Hub
-  
+* **NextJob** — Job portal using Java, JDBC and MySQL
+* **ATM Management System** — Console-based ATM application using Core Java and OOP
+* **Academic Resource Hub** — Academic resource management application
+* **Java Problem Solving** — Java programming and DSA practice
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shruthi-M-G&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shruthi-M-G&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shruthi-M-G\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shruthi-M-G\&layout=compact\&theme=github_dark\&hide_border=true)
+
 ---
