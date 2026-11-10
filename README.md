@@ -44,7 +44,7 @@ Git • GitHub • VS Code • Eclipse • MySQL
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 
