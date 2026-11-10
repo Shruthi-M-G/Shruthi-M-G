@@ -14,10 +14,10 @@ Final-Year ECE Student • Aspiring Software Engineer
 
 ## About Me
 
-* 🎓 Final-year B.E. Electronics & Communication Engineering student
-* 💻 Interested in Java Backend Development
-* 📚 Currently learning Data Structures & Algorithms
-* 🔨 Building projects to improve problem-solving and development skills
+* Final-year B.E. Electronics & Communication Engineering student
+* Interested in Java Backend Development
+* Currently learning Data Structures & Algorithms
+* Building projects to improve problem-solving and development skills
 
 ---
 
@@ -35,7 +35,7 @@ Git • GitHub • VS Code • Eclipse • MySQL
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 * **NextJob** — Job portal using Java, JDBC and MySQL
 * **ATM Management System** — Console-based ATM application using Core Java and OOP
